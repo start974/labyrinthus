@@ -1,0 +1,2 @@
+# labyrinthus
+Maze contest
